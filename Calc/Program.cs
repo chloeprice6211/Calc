@@ -1,1 +1,1 @@
-﻿Console.WriteLine("Hello, World!");
+﻿new Calc.App.Calc().Run();
